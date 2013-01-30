@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="evolution"
-           fetch="git://github.com/Nexus-Evolution/" /> 
+           fetch="git://github.com/GsxrDon/" /> 
   
   <remote  name="greg"
            fetch="git://github.com/greg-pe/" />
