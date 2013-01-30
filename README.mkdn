@@ -1,5 +1,5 @@
 Nexus Evolution android 4.2
 
- repo init -u git://github.com/Nexus-Evolution/android.git -b JB-4.2
+ repo init -u git://github.com/GsxrDon/android.git -b jb-4.2
 
  repo sync
